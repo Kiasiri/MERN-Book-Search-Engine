@@ -4,7 +4,7 @@
 
 ## Description
 
-A user can create exercises in multiple categories specifying, reps, sets, duration distance and weight.
+A user can create a list of favoured books to keep track of them.
 
 ## Table of Contents
 
